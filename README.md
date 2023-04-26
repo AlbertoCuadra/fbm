@@ -2,7 +2,7 @@
 
 This code generates patterns using the fractional Brownian motion (FBM), a mathematical technique used to create fractal-like images. The code is inspired in the well-documented posts from M. McGuire [1], I. Quilez [2], and P. Gonzalez-Vivo & J. Lowe [3].
 
-The code was used to create the cover of a PhD thesis titled ```Development of a wide-spectrum thermochemical code with application to planar reaction and non-reacting shocks```.
+The code was used to create the cover of my PhD thesis titled ```Development of a wide-spectrum thermochemical code with application to planar reaction and non-reacting shocks```.
 
 
 The process to generate the cover was as follows:
