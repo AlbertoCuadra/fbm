@@ -22,6 +22,8 @@ function fbm(varargin)
     %     * resolution (float): Resolution of the image (width, height) in pixels
     %     * palette (float): Colormap of the image
     %     * ntimes (float): Number of images to generate
+    %     * velocity (float): Velocity of the pattern
+    %     * direction (float): Direction of the pattern (x, y)
     %
     % References:
     %     * [1] M. McGuire: https://www.shadertoy.com/view/4dS3Wd

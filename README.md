@@ -30,6 +30,8 @@ The function can be called with optional name-pair arguments, such as:
 * resolution (float): Resolution of the image (width, height) in pixels.
 * palette (float): Colormap of the image, e.g., ```summer``` or ```winter```.
 * ntimes (float): Number of images to generate.
+* velocity (float): Velocity of the pattern.
+* direction (float): Direction of the pattern (x, y).
 
 ## Examples:
 
