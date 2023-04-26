@@ -17,7 +17,7 @@ The process to generate the cover was as follows:
 </p>
 <p align="left">
     <img src="https://github.com/AlbertoCuadra/fbm/blob/master/examples/parula.svg" width="400">
-    <img src="https://github.com/AlbertoCuadra/fbm/blob/master/examples/hot.svg" width="400">
+    <img src="https://github.com/AlbertoCuadra/fbm/blob/master/examples/bone.svg" width="400">
     <img src="https://github.com/AlbertoCuadra/fbm/blob/master/examples/summer.svg" width="400">
     <img src="https://github.com/AlbertoCuadra/fbm/blob/master/examples/winter.svg" width="400">
 </p>
