@@ -46,8 +46,8 @@ fbm('resolution', [640, 360], 'zoom', 0.5, 'octaves', 4, 'ntimes', 1000, 'veloci
 ```
 
 ## References
-[1] M. McGuire: https://www.shadertoy.com/view/4dS3Wd
-[2] I. Quilez: https://iquilezles.org/articles/fbm
-[3] P. Gonzalez-Vivo & J. Lowe: https://thebookofshaders.com/13
-[4] SVGStorm: https://svgstorm.com/app
-[5] Inkscape: https://inkscape.org
+* [1] M. McGuire: https://www.shadertoy.com/view/4dS3Wd
+* [2] I. Quilez: https://iquilezles.org/articles/fbm
+* [3] P. Gonzalez-Vivo & J. Lowe: https://thebookofshaders.com/13
+* [4] SVGStorm: https://svgstorm.com/app
+* [5] Inkscape: https://inkscape.org
