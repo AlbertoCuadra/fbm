@@ -1,5 +1,7 @@
 # Fractional Brownian Motion (FBM) Generator
 
+[![View Fractional Brownian Motion Generator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/128649-fractional-brownian-motion-generator)
+
 This code generates patterns using the fractional Brownian motion (FBM), a mathematical technique used to create fractal-like images. The code is inspired in the well-documented posts from M. McGuire [1], I. Quilez [2], and P. Gonzalez-Vivo & J. Lowe [3].
 
 The code was used to create the cover of my PhD thesis titled ```Development of a wide-spectrum thermochemical code with application to planar reaction and non-reacting shocks```.
